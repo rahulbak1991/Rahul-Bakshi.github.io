@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://rahulbak1991.github.io
+url: rahulbak1991.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -50,7 +50,7 @@ url: http://rahulbak1991.github.io
 baseurl: ""
 
 # In order to access data in repository, user must specify github username
-githubuser: Rahul-Bakshi
+githubuser: rahulbak1991
 
 #
 # !! You don't need to change any of the configuration flags below !!
